@@ -1,6 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kaznarah A.Ph.N</h1>
 <h3 align="center">💻 Software Developer, enjoy using JAVA / TYPESCRIPT</h3>
+<h3 align="center">Linux User🐧</h3>
 <img align="right" alt="Life" width="400px" src="https://miro.medium.com/v2/resize:fit:640/1*l39uFr4VK-37ZKFaJT2GhQ.gif">
 
 
