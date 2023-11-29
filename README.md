@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaznarah1&label=Profile%20views&color=0e75b6&style=flat" alt="kaznarah1" /> </p>
 
-- 🌱 I’m currently learning **Angular and Springboot**
+- 🌱 I’m currently learning **Spring security JWT**
 
 - 📫 How to reach me **kaznarahandrinarivo@gmail.com**
 
